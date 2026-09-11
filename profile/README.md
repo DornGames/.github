@@ -23,7 +23,7 @@
 
 | Project | Description | Links |
 |---------|-------------|-------|
-| 🎮 Valencia Encyclopedia 3 | Online project | [Live](https://dorngames.github.io/ValenciaBangswp-V3/src/index.html) ・ [Repo](https://github.com/DornGames/ValenciaBangswp-V3) |
+| 🎮 Valencia Dictionary 3 | Online project | [Live](https://dorngames.github.io/ValenciaBangswp-V3/src/index.html) ・ [Repo](https://github.com/DornGames/ValenciaBangswp-V3) |
 | 🤖 TonhTzeAI-O1 | AI in training (WIP) | — |
 | 🔮 Donh Destiny Forecast | Web project | [Live](https://dornhub.github.io/valeriette/donh-destiny-forecast.html) ・ [Repo](https://github.com/dornhub/valeriette) |
 | 🍌 Escape the Big Banana | Game | [Repo](https://github.com/DornGames/Escape-the-Big-Banana) |
@@ -65,7 +65,7 @@ DornGames is part of **Dorn Hub** — a remote / distributed fan team of people 
 |---------|-------------|-------|
 | 📖 Tonh Tze Anthology with Correction and Annotation | Signature work | [PDF](https://dornhub.eu.org/library/Tonh-Tze-Anthology-with-Correction-and-Annotation.pdf) |
 | 🏠 Dorn Hub | Main site project | [Website](https://dornhub.eu.org) ・ [Repo](https://github.com/cgy22/Dorn-Hub) |
-| 📚 Valencia Encyclopedia 2 | Online project | [Visit](http://valencia.dorn.rf.gd) |
+| 📚 Valencia Dictionary 2 | Online project | [Visit](http://valencia.dorn.rf.gd) |
 
 ---
 
