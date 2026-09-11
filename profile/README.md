@@ -67,10 +67,6 @@ DornGames is part of **Dorn Hub** — a remote / distributed fan team of people 
 | 🏠 Dorn Hub | Main site project | [Website](https://dornhub.eu.org) ・ [Repo](https://github.com/cgy22/Dorn-Hub) |
 | 📚 Valencia Encyclopedia 2 | Online project | [Visit](http://valencia.dorn.rf.gd) |
 
-### 👥 Members
-
-See [About page](https://dornhub.eu.org/about.html).
-
 ---
 
 ©️ Copyright
