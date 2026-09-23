@@ -39,7 +39,7 @@ See [Members](https://github.com/orgs/DornGames/people).
 
 ---
 
-## 🏛️ Parent Team: Dorn Hub
+# Parent Team: Dorn Hub
 
 <img src="https://dornhub.eu.org/resources/images/dornhub-character.jpg" alt="Dorn Hub" width="300">
 
@@ -49,7 +49,7 @@ DornGames is part of **Dorn Hub** — a remote / distributed fan team of people 
 🔄 Another domain: https://dorn.rf.gd
 📬 Contact: contact@dornhub.eu.org
 
-### 📁 Areas
+## 📁 Areas
 
 | Area | Description |
 |------|-------------|
@@ -59,7 +59,7 @@ DornGames is part of **Dorn Hub** — a remote / distributed fan team of people 
 | 🎮 Game Development | Game works |
 | 🎨 Cultural & Creative | Creations beyond information technology |
 
-### 🚀 Featured Projects
+## 🚀 Featured Projects
 
 | Project | Description | Links |
 |---------|-------------|-------|
