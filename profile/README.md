@@ -71,7 +71,7 @@ DornGames is part of **Dorn Hub** — a remote / distributed fan team of people 
 
 ©️ Copyright
 
-Copyright © 2021-2026 DornGames. All Rights Reserved.  
+Copyright © 2023-2026 DornGames. All Rights Reserved.  
 Copyright © 2021-2026 Dorn Hub. All Rights Reserved.
 
 敬上一杯刺梨汁！  
