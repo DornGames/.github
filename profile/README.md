@@ -25,7 +25,7 @@
 |---------|-------------|-------|
 | 🎮 Valencia Dictionary 3 | Online project | [Live](https://dorngames.github.io/ValenciaBangswp-V3/src/index.html) ・ [Repo](https://github.com/DornGames/ValenciaBangswp-V3) |
 | 🤖 TonhTzeAI-O1 | AI in training (WIP) | — |
-| 🔮 Donh Destiny Forecast | Web project | [Live](https://dornhub.github.io/valeriette/donh-destiny-forecast.html) ・ [Repo](https://github.com/dornhub/valeriette) |
+| 🔮 Donh Destiny Forecast | Game | [Live](https://dornhub.github.io/valeriette/donh-destiny-forecast.html) ・ [Repo](https://github.com/dornhub/valeriette) |
 | 🍌 Escape the Big Banana | Game | [Repo](https://github.com/DornGames/Escape-the-Big-Banana) |
 | ☁️ Free Word Cloud | Tool | [Repo](https://github.com/DornGames/FreeWordCloud) |
 | ✈️ Plane War | Game | [Repo](https://github.com/DornGames/PlaneWar) |
@@ -58,6 +58,7 @@ DornGames is part of **Dorn Hub** — a remote / distributed fan team of people 
 | 🤖 AI / Machine Learning | Model training and exploration |
 | 🎮 Game Development | Game works |
 | 🎨 Cultural & Creative | Creations beyond information technology |
+| 🔨 Handcrafting | Handmade wooden and metal products |
 
 ## 🚀 Featured Projects
 
