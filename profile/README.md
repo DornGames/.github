@@ -28,6 +28,7 @@
 | 🔮 Donh Destiny Forecast | Game | [Live](https://dornhub.github.io/valeriette/donh-destiny-forecast.html) ・ [Repo](https://github.com/dornhub/valeriette) |
 | 🍌 Escape the Big Banana | Game | [Repo](https://github.com/DornGames/Escape-the-Big-Banana) |
 | ☁️ Free Word Cloud | Tool | [Repo](https://github.com/DornGames/FreeWordCloud) |
+| 🫠 Eat Donh (TonhTze Pac-Man) | Game | [Live1](https://dorngames.github.io/Eat-Donh) · [Live2](https://dornhub.eu.org/games/eat-donh/index.html) · [Repo](https://github.com/dorngames/Eat-Donh) |
 | ✈️ Plane War | Game | [Repo](https://github.com/DornGames/PlaneWar) |
 | ✈️ Plane War (HTML) | Game (web version) | [Live](https://dornhub.eu.org/games/plane-war/plane-war.html) ・ [Repo](https://github.com/DornGames/PlaneWar-html) |
 | 🐟 DaFeiYu (Create Deekseep Chan) | Game | [Live](https://koloyaaa.github.io/DaFeiYu) · [Repo](https://github.com/Koloyaaa/DaFeiYu) |
