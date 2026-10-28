@@ -1,5 +1,8 @@
-# 🎮 DornGames  
-<img src="https://dornhub.eu.org/resources/images/DornGames-logo.png" alt="DornGames Logo" width="500">
+# DornGames  
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://dornhub.eu.org/resources/images/DornGames-logo.png">
+  <img src="https://dornhub.eu.org/resources/images/DornGames-logo.png" alt="DornGames Logo" width="500">
+</picture>
 
 **A game development group under Dorn Hub — and possibly more than just games.**
 
@@ -24,7 +27,6 @@
 | Project | Description | Links |
 |---------|-------------|-------|
 | 🎮 Valencia Dictionary 3 | Online project | [Live](https://dorngames.github.io/ValenciaBangswp-V3/src/index.html) ・ [Repo](https://github.com/DornGames/ValenciaBangswp-V3) |
-| 🤖 TonhTzeAI-O1 | AI in training (WIP) | — |
 | 🔮 Donh Destiny Forecast | Game | [Live](https://dornhub.github.io/valeriette/donh-destiny-forecast.html) ・ [Repo](https://github.com/dornhub/valeriette) |
 | 🍌 Escape the Big Banana | Game | [Repo](https://github.com/DornGames/Escape-the-Big-Banana) |
 | ☁️ Free Word Cloud | Tool | [Repo](https://github.com/DornGames/FreeWordCloud) |
@@ -32,8 +34,8 @@
 | ✈️ Plane War | Game | [Repo](https://github.com/DornGames/PlaneWar) |
 | ✈️ Plane War (HTML) | Game (web version) | [Live](https://dornhub.eu.org/games/plane-war/plane-war.html) ・ [Repo](https://github.com/DornGames/PlaneWar-html) |
 | 🐟 DaFeiYu (Create Deekseep Chan) | Game | [Live](https://koloyaaa.github.io/DaFeiYu) · [Repo](https://github.com/Koloyaaa/DaFeiYu) |
-| ♟️ AlphaTonh · Reversi | Game | [Repo](https://github.com/cgy22/AlphaTonh-Reversi) |
 | 🪆 Dorn Headway | Game | [Live](https://yesirqoqf.github.io/dorn-headway/) · [Repo](https://github.com/yesirqoqf/dorn-headway) |
+| 🏰 3D Tower Defence | Browser-based 3D tower defence game with random multi-entrance maps, tower upgrades, and elemental attach/reaction system | [Live](https://yesirqoqf.github.io/tower-defence/) ・ [Repo](https://github.com/YeSirQoQF/tower-defence) |
 
 ---
 
@@ -43,11 +45,60 @@ See [Members](https://github.com/orgs/DornGames/people).
 
 ---
 
+# TonhTze AI
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://dornhub.eu.org/resources/images/TonhTzeAI/TonhTzeAI-logo-v1-dark.svg">
+  <img src="https://dornhub.eu.org/resources/images/TonhTzeAI/TonhTzeAI-logo-v1-light.svg" alt="TonhTze AI Logo" width="500">
+</picture>
+
+**An AI sub-team under Dorn Hub — training methods, models, and algorithm-driven works.**
+
+Formerly part of DornGames, now a sub-team parallel to it under Dorn Hub.
+
+---
+
+📬 No separate contact or repository yet — find us through [DornGames](https://github.com/DornGames) or [Dorn Hub](https://dornhub.eu.org); it's the same people.
+
+---
+
+## 📁 What We Do
+
+| Area | Description |
+|------|-------------|
+| 🧠 Model Training | Training methods and pipelines (e.g. LSTM dialogue generation, KMeans outlier detection) |
+| 🤖 Large Models | Fine-tuned large models built on top of existing ones (e.g. TonhTzeAI-O1) |
+| 🎮 Algorithmic Games | Games driven by algorithms and AI opponents (e.g. AlphaTonh · Reversi) |
+| 🔮 Distillation (Planned) | Model distillation — upcoming |
+
+---
+
+## 🚀 Projects
+
+| Project | Description | Links |
+|---------|-------------|-------|
+| 🧿 TonhTzeAI-V1 | LSTM classical-Chinese dialogue generator trained on *Tonh-Tze Anthology with Correction and Annotation* (training method) | [Repo](https://github.com/DornGames/TonhTzeAI-V1) |
+| ♟️ AlphaTonh · Reversi | Reversi game with MCTS AI "TonhTze" — algorithmic game | [Repo](https://github.com/cgy22/AlphaTonh-Reversi) ・ [Releases](https://github.com/cgy22/AlphaTonh-Reversi/releases) |
+| 📊 KMeans Outlier | Pure NumPy KMeans clustering for unsupervised outlier detection (training method) | [Repo](https://github.com/cgy22/kmeans-outlier) |
+| 🤖 TonhTzeAI-O1 | Large model fine-tuned on top of an existing model (WIP) | — |
+| 🔮 Distillation Models | Model distillation (planned) | — |
+
+---
+
+## 👥 Members
+
+No separate member list — shared with DornGames and Dorn Hub.
+
+---
+
 # Parent Team: Dorn Hub
 
-<img src="https://dornhub.eu.org/resources/images/dornhub-character.jpg" alt="Dorn Hub" width="300">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://dornhub.eu.org/resources/images/dornhub-character.jpg">
+  <img src="https://dornhub.eu.org/resources/images/dornhub-character.jpg" alt="Dorn Hub" width="300">
+</picture>
 
-DornGames is part of **Dorn Hub** — a remote / distributed fan team of people who love to build things.
+Dorn Hub is a remote / distributed fan team of people who love to build things. It currently has two sub-teams: **DornGames** and **TonhTze AI**.
 
 🔗 Main Website: https://dornhub.eu.org
 🔄 Another domain: https://dorn.rf.gd
@@ -77,6 +128,7 @@ DornGames is part of **Dorn Hub** — a remote / distributed fan team of people 
 ©️ Copyright
 
 Copyright © 2023-2026 DornGames. All Rights Reserved.  
+Copyright © 2026 TonhTze AI. All Rights Reserved.  
 Copyright © 2021-2026 Dorn Hub. All Rights Reserved.
 
 敬上一杯刺梨汁！  
