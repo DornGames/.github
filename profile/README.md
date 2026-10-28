@@ -35,7 +35,7 @@
 | ✈️ Plane War (HTML) | Game (web version) | [Live](https://dornhub.eu.org/games/plane-war/plane-war.html) ・ [Repo](https://github.com/DornGames/PlaneWar-html) |
 | 🐟 DaFeiYu (Create Deekseep Chan) | Game | [Live](https://koloyaaa.github.io/DaFeiYu) · [Repo](https://github.com/Koloyaaa/DaFeiYu) |
 | 🪆 Dorn Headway | Game | [Live](https://yesirqoqf.github.io/dorn-headway/) · [Repo](https://github.com/yesirqoqf/dorn-headway) |
-| 🏰 3D Tower Defence | Browser-based 3D tower defence game with random multi-entrance maps, tower upgrades, and elemental attach/reaction system | [Live](https://yesirqoqf.github.io/tower-defence/) ・ [Repo](https://github.com/YeSirQoQF/tower-defence) |
+| 🏰 3D Tower Defence | Game | [Live](https://yesirqoqf.github.io/tower-defence/) ・ [Repo](https://github.com/YeSirQoQF/tower-defence) |
 
 ---
 
